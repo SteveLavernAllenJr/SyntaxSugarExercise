@@ -1,0 +1,16 @@
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.exe
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.deps.json
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.runtimeconfig.json
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.runtimeconfig.dev.json
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.dll
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net5.0\SyntaxSugarExercise.pdb
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.dll
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\refint\SyntaxSugarExercise.dll
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.pdb
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\SyntaxSugarExercise.genruntimeconfig.cache
+C:\Users\steve\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net5.0\ref\SyntaxSugarExercise.dll
